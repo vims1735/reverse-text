@@ -1,6 +1,6 @@
 # Reverse Text 🔄  
 
-This repository has a simple script that reverses any text you enter.  
+This repository contains a simple script that reverses any text you enter.  
 
 ## Code in This Repo  
 ```python
